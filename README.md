@@ -1,3 +1,2 @@
 # Where-s-my-jewelry-game
 This is a game that was programmed using the Python language, specifically using the Pygame library. This game is about a spoiled girl who loves jewelry and dolls and she loved hedgehogs. One day she went to sleep and started dreaming that her favorite hedgehog toy stole her jewelry and hid it in different places in her room and the house, but the part that has been programmed so far is only her room.
-هذه هي لعبة تم برمجتها باستخدام لغة Paython و بالاخص باستخدام مكتبة Pygame، و هذي اللعبة تتحدث عن طفلة مدللة و تحب المجوهرات و الدمى و كانت تحب القنافذ و ذات يوم نامت و بدات تحلم ان لعبة القنفذ المفضلة لديها سرقت مجوهراتها و خباها في أماكن مختلفة من غرفتها و المنزل لكن الجزء الذي تم برمجته الى حد الان هو غرفتها فقط.
